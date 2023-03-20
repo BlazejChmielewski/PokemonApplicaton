@@ -6,6 +6,9 @@ Technologies:
 *TypeScript   *JavaScript         *HTML&CSS
 *HTTP         *CLI                *Databases(MySQL)
 
+Testing: 
+*Postman
+
 Live Review:
 YouTube: 
 Heroku: 
