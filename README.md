@@ -2,7 +2,9 @@
 Pokedex imitation application
 
 Technologies:
-*Java-17    *SpringBoot 3.0.4   *AngularCLI 15.2.2    *TypeScript   *HTML   *CSS
+*Java-17      *SpringBoot 3.0.4   *AngularCLI 15.2.2    
+*TypeScript   *JavaScript         *HTML&CSS
+*HTTP         *CLI                *Databases(MySQL)
 
 Live Review:
 YouTube: 
